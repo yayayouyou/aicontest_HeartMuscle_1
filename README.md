@@ -35,6 +35,7 @@ data/
 ```
 
 其中 `dataset.json` 的檔案如下：
+[dataset.json](dataset.json)
 
 ```json
 {
@@ -405,6 +406,8 @@ nnUNetv2_find_best_configuration 666 -c 3d_lowres 3d_cascade_fullres 3d_fullres 
 ## 階段四：預測
 
 根據 find best 會產生結果，查看 `inference_information.json` 的結果，他會告訴你最好的模型是哪個或是哪個組合，以我們後來做的 Mplan 結果為例。（此 Mplan 並不是本比賽最佳成績，這裏只是作為示範）
+
+[inference_information.json 程式碼](inference_information.json)
 
 ```json
 {

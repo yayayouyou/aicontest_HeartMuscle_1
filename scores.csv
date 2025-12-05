@@ -1,0 +1,109 @@
+,檔案說明,上傳時間,Public分數,Private分數,訊息
+,"old-plan-3d-fullres-predict.zip  old-plan-3d-fullres-predict 猜測是這個提交前最高分的
+上傳成員 王 翊鑫","2025-11-24
+11:04:43",0.79555667,0.804576907594658,Scoring success.
+,"pred_3d_cascade_fullres.zip  pred_3d_cascade_fullres
+上傳成員 王 翊鑫","2025-11-29
+08:09:23",0.79302219,0.803746275690966,Scoring success.
+,"ntnu-3D_fullres_prediction.zip  ntnu-3D_fullres_prediction
+上傳成員 王 翊鑫","2025-11-27
+08:18:35",0.79457139,0.80371888984618,Scoring success.
+,"inference_3d_fullres_pp_Mplan.zip  inference_3d_fullres_pp_Mplan
+上傳成員 王 翊鑫","2025-11-30
+10:48:53",0.79424657,0.803656738000784,Scoring success.
+,"preds_PP.zip  preds_PP.zip
+上傳成員 石 亞右","2025-11-22
+09:34:35",0.79424600,0.803656019107274,Scoring success.
+,"preds_from_best.zip  preds_from_best.zip
+上傳成員 石 亞右","2025-11-22
+09:33:37",0.79403872,0.803623688773905,Scoring success.
+,"predict.zip  fold_0 的結果，使用 nnU-net
+上傳成員 王 翊鑫","2025-10-15
+09:58:15",0.79340219,0.802509777447755,Scoring success.
+,"predict-Lplan-fold0.zip  3090-heart1-Lplan-fold0
+上傳成員 王 翊鑫","2025-11-17
+11:31:51",0.79112230,0.802381074940228,Scoring success.
+,"predict5.zip  nnu-net fold5
+上傳成員 王 翊鑫","2025-10-17
+11:09:13",0.79404124,0.801951532647128,Scoring success.
+,"pred_3d_cascade_fullres_fold3.zip  pred_3d_cascade_fullres_fold3
+上傳成員 王 翊鑫","2025-11-30
+03:44:24",0.79181366,0.801392964383873,Scoring success.
+,"pred_3d_cascade_fullres_fold3.zip  pred_3d_cascade_fullres_fold3
+上傳成員 王 翊鑫","2025-11-29
+11:15:13",0.79181366,0.801392964383873,Scoring success.
+,"predict-ntnu-Mplan-fold0.zip  ntnu-Mplan-fold0
+上傳成員 王 翊鑫","2025-11-24
+10:25:02",0.79283163,0.801254220264968,Scoring success.
+,"predict3.zip  nnU-Net fold3
+上傳成員 王 翊鑫","2025-10-16
+08:05:34",0.79621101,0.801167437709397,Scoring success.
+,"predic-Mplan-fold0.zip  heart1-Mplan-fold0
+上傳成員 王 翊鑫","2025-11-17
+08:49:40",0.79040793,0.800808077246141,Scoring success.
+,"preds_fold1.zip  L-plan
+上傳成員 石 亞右","2025-11-22
+11:26:40",0.78886129,0.800438840884687,Scoring success.
+,"predict4.zip  nnU-Net fold4
+上傳成員 王 翊鑫","2025-10-16
+08:16:30",0.78941263,0.800409324314012,Scoring success.
+,"pred_3d_cascade_fullres_fold0.zip  heart final pred_3d_cascade_fullres_fold0
+上傳成員 王 翊鑫","2025-11-27
+05:22:50",0.79096014,0.8003912678781,Scoring success.
+,"predic-Mplan-fold1.zip  heart1-Mplan-fold1
+上傳成員 王 翊鑫","2025-11-17
+10:56:03",0.79112933,0.800080886874092,Scoring success.
+,"predict-ntnu-Mplan-fold3.zip  predict-ntnu-Mplan-fold3
+上傳成員 王 翊鑫","2025-11-26
+10:43:41",0.79375331,0.800056870720971,Scoring success.
+,"predict-ntnu-Mplan-fold3.zip  predict-ntnu-Mplan-fold3
+上傳成員 王 翊鑫","2025-11-25
+01:15:37",0.79375331,0.800056870720971,Scoring success.
+,"predict-Mplan-fold3.zip  predict-Mplan-fold3
+上傳成員 王 翊鑫","2025-11-18
+03:05:15",0.79460918,0.799933772187413,Scoring success.
+,"pred_3d_cascade_fullres_fold4.zip  pred_3d_cascade_fullres_fold4
+上傳成員 王 翊鑫","2025-11-28
+07:21:32",0.78909914,0.799856303467206,Scoring success.
+,"predict-ntnu-Mplan-fold1.zip  predict-ntnu-Mplan-fold1
+上傳成員 王 翊鑫","2025-11-24
+07:29:05",0.79005202,0.799744703364322,Scoring success.
+,"predict1.zip  nnU-Net fold01
+上傳成員 王 翊鑫","2025-10-15
+10:14:23",0.79189192,0.799700473551116,Scoring success.
+,"predict2.zip  nnU-Net fold_02
+上傳成員 王 翊鑫","2025-10-15
+10:53:59",0.79251688,0.799115021862727,Scoring success.
+,"predict-Mplan-fold4.zip  predict-Mplan-fold4
+上傳成員 王 翊鑫","2025-11-20
+11:11:29",0.78878038,0.798672850904455,Scoring success.
+,"predict-ntnu-Mplan-fold2.zip  predict-ntnu-Mplan-fold2
+上傳成員 王 翊鑫","2025-11-26
+10:43:23",0.79246096,0.798195871248331,Scoring success.
+,"predict-ntnu-Mplan-fold2.zip  predict-ntnu-Mplan-fold2.
+上傳成員 王 翊鑫","2025-11-25
+01:15:20",0.79246096,0.798195871248331,Scoring success.
+,"predict-ntnu-Mplan-fold4.zip  predict-ntnu-Mplan-fold4
+上傳成員 王 翊鑫","2025-11-26
+10:43:56",0.78793077,0.798003422619041,Scoring success.
+,"predict-ntnu-Mplan-fold4.zip  predict-ntnu-Mplan-fold4
+上傳成員 王 翊鑫","2025-11-25
+01:15:52",0.78793077,0.798003422619041,Scoring success.
+,"pred_3d_cascade_fullres-2.zip  heart-final-pred_3d_cascade_fullres-2
+上傳成員 王 翊鑫","2025-11-28
+05:21:26",0.79042558,0.797712447918102,Scoring success.
+,"predict-Mplan-fold2.zip  predict-Mplan-fold2
+上傳成員 王 翊鑫","2025-11-18
+03:04:52",0.79034392,0.797458891941309,Scoring success.
+,"3d_lowres.zip  3d_lowres
+上傳成員 王 翊鑫","2025-11-28
+11:30:56",0.77917931,0.791330583941214,Scoring success.
+,"predict0-4.zip  nnu-net fold 0~4
+上傳成員 王 翊鑫","2025-10-18
+01:08:15",0.78174629,0.79042982615127,Scoring success.
+,"predict.zip  nnu net fold 2+4
+上傳成員 王 翊鑫","2025-10-18
+08:13:41",0.77902611,0.787383661554841,Scoring success.
+,"predict-Mplan-2d.zip  nnu-net-Mplan-2d
+上傳成員 王 翊鑫","2025-11-08
+02:39:54",0.77605792,0.785728025473495,Scoring success.
